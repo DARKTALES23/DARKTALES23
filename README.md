@@ -1,13 +1,12 @@
-# Opa, eu sou o Davi! 👋
+# Opa, eu sou o Tales! 👋
 
-> Programando umas coisas, criando outras e tentando fazer tudo funcionar no final.
+> Programando umas coisas, criando outras e simplesmente só me ferrando.
 
 ## 🧠 Sobre mim
 
 * 💻 Curto programação e projetos pessoais, principalmente com **Python**, **HTML**, **CSS** e **JavaScript**.
-* 🤖 Faço bots para Discord, incluindo comandos, sistemas de coleção e integrações com APIs de IA.
 * 🎵 Gosto de música, produção musical e de criar ferramentas relacionadas a áudio.
-* 🎮 Tenho interesse em desenvolvimento de jogos, especialmente com **Godot** e Gamer maker.
+* 🎮 Tenho interesse em desenvolvimento de jogos, especialmente com **Godot** e **Gamer maker**.
 * 🌐 Gosto de criar sites com personalidade: cozy, personalizáveis e com uma estética mais artesanal.
 * 🛠️ Aprendo melhor colocando a mão no código, testando, quebrando e consertando.
 
@@ -17,17 +16,13 @@
 
 Um player de música desktop feito em Python, com uma proposta visual inspirada no foobar2000.
 
-### 🤖 Bots de Discord
+### 📱 Ports pra android
 
-Bots em Python com slash commands, embeds, sistemas interativos e armazenamento em SQLite.
-
-### 🌙 Tales Website
-
-Meu cantinho na internet, com uma vibe pessoal/cozy e espaço para projetos, pensamentos e música.
+Ando trabalhando com ports para android, recomendo dar uma olhada neles.
 
 ### 🎮 Game Dev
 
-Experimentando ideias e mecânicas de jogos com Godot e Roblox Studio.
+Experimentando ideias e mecânicas de jogos com Godot e Game Maker.
 
 ## 🧰 Tecnologias e ferramentas
 
@@ -41,9 +36,9 @@ Experimentando ideias e mecânicas de jogos com Godot e Roblox Studio.
 
 ## 🎶 Fora do código
 
-Música, games, ideias aleatórias e projetos que começam com “e se eu fizesse...?”
+Eu sou um ser humano, assim como todos vocês. eu tenho vida, não me julga se eu não atualizar as coisas.
 
 \---
 
-*Feito com curiosidade, café imaginário e alguns bugs que definitivamente são features.*
-
+*todos os meus bugs são propositais, eu sou o GOAT de tudo*
+https://gifs.alphacoders.com/gifs/view/223302
