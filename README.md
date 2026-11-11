@@ -26,14 +26,14 @@ Experimentando ideias e mecânicas de jogos com Godot e Game Maker.
 
 ## 🧰 Tecnologias e ferramentas
 
-Python
-HTML
-CSS
-Java Script
-Kotlin
+Python,
+HTML,
+CSS,
+Java Script,
+Kotlin,
 
-Vs code 
-Android Studio
+Vs code, 
+Android Studio,
 e claro, o github.
 
 ## 🎶 Fora do código
