@@ -41,4 +41,5 @@ Eu sou um ser humano, assim como todos vocês. eu tenho vida, não me julga se e
 \---
 
 *todos os meus bugs são propositais, eu sou o GOAT de tudo*
-https://gifs.alphacoders.com/gifs/view/223302
+
+https://giffiles.alphacoders.com/223/223302.gif
