@@ -30,7 +30,7 @@ Python,
 HTML,
 CSS,
 Java Script,
-Kotlin,
+Kotlin.
 
 Vs code, 
 Android Studio,
