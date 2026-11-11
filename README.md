@@ -26,13 +26,15 @@ Experimentando ideias e mecânicas de jogos com Godot e Game Maker.
 
 ## 🧰 Tecnologias e ferramentas
 
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-!\[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-!\[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-!\[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-!\[Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square\&logo=godot-engine\&logoColor=white)
-!\[SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-!\[Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+Python
+HTML
+CSS
+Java Script
+Kotlin
+
+Vs code 
+Android Studio
+e claro, o github.
 
 ## 🎶 Fora do código
 
@@ -42,4 +44,4 @@ Eu sou um ser humano, assim como todos vocês. eu tenho vida, não me julga se e
 
 *todos os meus bugs são propositais, eu sou o GOAT de tudo*
 
-https://giffiles.alphacoders.com/223/223302.gif
+<img width="666" height="336" alt="223302" src="https://github.com/user-attachments/assets/9c190ac1-6c27-4139-99c1-529d4893474a" />
